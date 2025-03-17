@@ -47,9 +47,5 @@ The insights from this analysis offer valuable recommendations for Airbnb hosts 
 - **Targeting Emerging Markets**: Use data insights to target under-reviewed neighborhoods for growth potential.
 - **Pricing Strategies**: Implement dynamic pricing strategies based on neighborhood and room type data.
 
-### Future Work:
-Future iterations of this analysis could incorporate **time-series analysis** to evaluate how trends in pricing, reviews, and occupancy rates evolve throughout the year, and how they correlate with seasonal fluctuations and special events in New York City.
 
----
 
-This description will help potential users and collaborators understand the goals, methods, and outcomes of your project. It also highlights key insights and gives an idea of what technologies were used.
